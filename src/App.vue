@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" width="25%" />
-    <ProggressBar :progress="16" />
+    <ProggressBar :progress="100" />
     <HelloWorld msg="Hello Vue in CodeSandbox!" />
   </div>
 </template>
